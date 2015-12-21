@@ -10,6 +10,6 @@ int main(int argc, char *argv[])
 	QTextCodec::setCodecForTr(QTextCodec::codecForName("GB2312"));
 	BaiduMap w;
 	w.showMaximized();
-
+//jing
 	return a.exec();
 }
