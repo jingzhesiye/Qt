@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/BaiduMap" >
+        <file>Resources/onelinemap.html</file>
+    </qresource>
+</RCC>
